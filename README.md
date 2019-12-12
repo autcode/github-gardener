@@ -21,6 +21,6 @@
 
 			You can upgrade to Stealth or Ninja here: www.githubgardener.co
 
-			Much love, Alex
+			Much love, Alex & Verdi Pratama
 
 			
